@@ -47,6 +47,7 @@ const T = {
         pubsLabel: 'Publicaciones',
         authors: 'Autores',
         joinLabel: 'Únete',
+        contactLabel: 'Contacto',
         joinText: 'Nuestro equipo se basa en el cuidado de las personas, la curiosidad, la constancia, la iniciativa, la colaboración y la creatividad. Buscamos personas con entusiasmo y ambición para sumarse a nuestra investigación.',
         joinStudents: 'Buscamos estudiantes de máster y doctorado.',
         newsLabel: 'Noticias',
@@ -102,6 +103,7 @@ const T = {
         pubsLabel: 'Publications',
         authors: 'Authors',
         joinLabel: 'Join us',
+        contactLabel: 'Contact',
         joinText: 'Our team is built on care, curiosity, consistency, initiative, collaboration and creativity. We welcome passionate and ambitious people who want to contribute to our research.',
         joinStudents: 'We are looking for master’s and PhD students.',
         newsLabel: 'News',
@@ -241,7 +243,7 @@ function view(r,t){
  if(r==='proyecto')return sec(t.projectLabel,`<p class="lab-lead">${esc(t.projectTitle)}</p><dl class="lab-facts">`+t.projectFacts.map(f=>`<div><dt>${esc(f.label)}</dt><dd>${esc(f.value)}</dd></div>`).join('')+`</dl>`);
  if(r==='publicaciones')return sec(`${t.pubsLabel} · ${pubs.length}`,`<ol class="lab-pubs">`+pubs.map(p=>{const f=p.journal==='Cell'||p.journal==='Nature';const ti=p.link?`<a href="${p.link}" target="_blank" rel="noopener">${esc(p.title)}</a>`:esc(p.title);return `<li class="${f?'is-featured':''}"><div class="lab-pub-meta"><span class="lab-chip">${esc(p.journal||'—')}</span><span>${esc(p.date)}</span></div><p class="lab-pub-title">${ti}</p>${p.authors?`<p class="lab-muted">${esc(p.authors)}</p>`:''}</li>`}).join('')+`</ol>`);
  if(r==='noticias')return sec(t.newsLabel,`<p class="lab-lead">${esc(t.newsText)}</p>`);
- return sec(t.joinLabel,`<p class="lab-lead">${esc(t.joinText)}</p><p class="lab-p">${esc(t.joinStudents)}</p>`);
+ return sec(t.joinLabel,`<p class="lab-lead">${esc(t.joinText)}</p><p class="lab-lead">${esc(t.joinStudents)}</p><p class="lab-lead">${esc(t.contactLabel)}: <a href="mailto:mariadolores.moya@genyo.es">mariadolores.moya@genyo.es</a></p>`);
 }
 function render(){
  const t=T[lang];const r=ROUTES.includes(location.hash.slice(2))?location.hash.slice(2):'general';
