@@ -100,111 +100,114 @@ const pubs = [
  {
   "title": "MCT6 is an intestinal Lac-Phe exporter required for metformin-associated weight loss.",
   "authors": "Xiao S, Tung AS, Spaas J, Fu S, Chen X, Trinh TK, Moya-Garzon MD, Li VL, Cessna HT, Ito K, Reghupaty SC, Lin C, Lyu X, Raun SH, Tyner MDW, Germakovski A, Tondreau J, Yeckley M, Wei W, Howitt MR, Parker MD, Sprowl JA, Hinshaw SM, Long JZ",
-  "date": "09/2026",
-  "journal": "bioRxiv : the preprint server for biology"
+  "date": "10/2026",
+  "journal": "Cell",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42913628/"
  },
  {
   "title": "Acute ketone monoester ingestion increases monocyte lysine β-hydroxybutyrylation and plasma β-hydroxybutyrate amino acid conjugates in humans.",
   "authors": "Marcotte-Chénard A, Sandilands RE, Teixeira AA, McCarthy SF, Moya-Garzon MD, Goldberg E, Long JZ, Islam H, Little JP",
   "date": "03/2026",
-  "journal": "American journal of physiology. Cell physiology"
+  "journal": "American journal of physiology. Cell physiology",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/41604251/"
  },
  {
   "title": "Mapping cellular targets of covalent cancer drugs in the entire mammalian body.",
-  "authors": "",
-  "date": "",
-  "journal": ""
+  "authors": "Pang Z, Leung VH, Wang CC, Attarpour A, Rinaldi A, Shen H, Moya-Garzon MD, Sigua LH, Rammel C, Selke A, Glynn C, Yender M, Xu S, Moslehi JJ, Wu P, Long JZ, Goubran M, Cravatt BF, Ye L",
+  "date": "02/2026",
+  "journal": "Cell",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/41435821/"
  },
  {
   "title": "Altered immunometabolic response to fasting in humans living with obesity.",
-  "authors": "",
-  "date": "06/2025",
-  "journal": "iScience"
+  "authors": "Neudorf H, Sandilands RE, Ursel S, Shaba H, Barg D, Tsusaka T, Moya-Garzón MD, Vaz E, Schimweg P, Goldberg EL, Long JZ, Krüger K, Islam H, Little JP",
+  "date": "07/2025",
+  "journal": "iScience",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/40662191/"
  },
  {
   "title": "Prohormone cleavage prediction uncovers a non-incretin anti-obesity peptide.",
   "authors": "Coassolo L, B Danneskiold-Samsøe N, Nguyen Q, Wiggenhorn A, Zhao M, Wang DC, Toomer D, Lone J, Wei Y, Patel A, Liparulo I, Kavi D, Wat LW, Reghupaty SC, Kim JJ, Asemi T, Bielczyk-Maczynska E, Li VL, Moya-Garzon MD, Krentz NAJ, Stahl A, Chou DH, Luo L, Svensson KJ",
-  "date": "",
-  "journal": ""
+  "date": "05/2025",
+  "journal": "Nature",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/40044869/"
  },
  {
   "title": "A β-hydroxybutyrate shunt pathway generates anti-obesity ketone metabolites.",
   "authors": "Moya-Garzon MD, Wang M, Li VL, Lyu X, Wei W, Tung AS, Raun SH, Zhao M, Coassolo L, Islam H, Oliveira B, Dai Y, Spaas J, Delgado-Gonzalez A, Donoso K, Alvarez-Buylla A, Franco-Montalban F, Letian A, Ward CP, Liu L, Svensson KJ, Goldberg EL, Gardner CD, Little JP, Banik SM, Xu Y, Long JZ",
-  "date": "2025",
+  "date": "01/2025",
   "journal": "Cell",
-  "link": "https://doi.org/10.1016/j.cell.2024.10.032"
- },
- {
-  "title": "A secondary β-hydroxybutyrate metabolic pathway linked to energy balance.",
-  "authors": "Moya-Garzon MD, Wang M, Li VL, Lyu X, Wei W, Tung AS, Raun SH, Zhao M, Coassolo L, Islam H, Oliveira B, Dai Y, Spaas J, Delgado-Gonzalez A, Donoso K, Alvarez-Buylla A, Franco-Montalban F, Letian A, Ward C, Liu L, Svensson KJ, Goldberg EL, Gardner CD, Little JP, Banik SM, Xu Y, Long JZ",
-  "date": "09/2024",
-  "journal": "bioRxiv : the preprint server for biology"
+  "link": "https://pubmed.ncbi.nlm.nih.gov/39536746/"
  },
  {
   "title": "PTER is a N-acetyltaurine hydrolase that regulates feeding and obesity.",
   "authors": "Wei W, Lyu X, Markhard AL, Fu S, Mardjuki RE, Cavanagh PE, Zeng X, Rajniak J, Lu N, Xiao S, Zhao M, Moya-Garzon MD, Truong SD, Chou JC, Wat LW, Chidambaranathan-Reghupaty S, Coassolo L, Xu D, Shen F, Huang W, Ramirez CB, Jang C, Li L, Svensson KJ, Fischbach MA, Long JZ",
   "date": "09/2024",
-  "journal": "Nature"
- },
- {
-  "title": "A PTER-dependent pathway of taurine metabolism linked to energy balance.",
-  "authors": "Wei W, Lyu X, Markhard AL, Fu S, Mardjuki RE, Cavanagh PE, Zeng X, Rajniak J, Lu N, Xiao S, Zhao M, Moya-Garzon MD, Truong SD, Chou JC, Wat LW, Chidambaranathan-Reghupaty S, Coassolo L, Xu D, Shen F, Huang W, Ramirez CB, Jang C, Svensson KJ, Fischbach MA, Long JZ",
-  "date": "03/2024",
-  "journal": "bioRxiv : the preprint server for biology"
+  "journal": "Nature",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/39112712/"
  },
  {
   "title": "Binding and sequestration of poison frog alkaloids by a plasma globulin.",
   "authors": "Alvarez-Buylla A, Fischer MT, Moya Garzon MD, Rangel AE, Tapia EE, Tanzo JT, Soh HT, Coloma LA, Long JZ, O'Connell LA",
   "date": "12/2023",
-  "journal": "eLife"
+  "journal": "eLife",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/38206862/"
  },
  {
   "title": "Organism-wide, cell-type-specific secretome mapping of exercise training in mice.",
   "authors": "Wei W, Riley NM, Lyu X, Shen X, Guo J, Raun SH, Zhao M, Moya-Garzon MD, Basu H, Sheng-Hwa Tung A, Li VL, Huang W, Wiggenhorn AL, Svensson KJ, Snyder MP, Bertozzi CR, Long JZ",
   "date": "07/2023",
-  "journal": "Cell metabolism"
+  "journal": "Cell metabolism",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/37141889/"
  },
  {
   "title": "CYP4F2 is a human-specific determinant of circulating N-acyl amino acid levels.",
   "authors": "Tanzo JT, Li VL, Wiggenhorn AL, Moya-Garzon MD, Wei W, Lyu X, Dong W, Tahir UA, Chen ZZ, Cruz DE, Deng S, Shi X, Zheng S, Guo Y, Sims M, Abu-Remaileh M, Wilson JG, Gerszten RE, Long JZ, Benson MD",
   "date": "06/2023",
-  "journal": "The Journal of biological chemistry"
+  "journal": "The Journal of biological chemistry",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/37121548/"
  },
  {
   "title": "Structural insights into the mechanism of leptin receptor activation.",
   "authors": "Saxton RA, Caveney NA, Moya-Garzon MD, Householder KD, Rodriguez GE, Burdsall KA, Long JZ, Garcia KC",
   "date": "03/2023",
-  "journal": "Nature communications"
+  "journal": "Nature communications",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/37002197/"
  },
  {
   "title": "The role of somatosensory innervation of adipose tissues.",
   "authors": "Wang Y, Leung VH, Zhang Y, Nudell VS, Loud M, Servin-Vences MR, Yang D, Wang K, Moya-Garzon MD, Li VL, Long JZ, Patapoutian A, Ye L",
   "date": "09/2022",
-  "journal": "Nature"
+  "journal": "Nature",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/36045288/"
  },
  {
   "title": "New salicylic acid derivatives, double inhibitors of glycolate oxidase and lactate dehydrogenase, as effective agents decreasing oxalate production.",
   "authors": "Moya-Garzon MD, Rodriguez-Rodriguez B, Martin-Higueras C, Franco-Montalban F, Fernandes MX, Gomez-Vidal JA, Pey AL, Salido E, Diaz-Gavilan M",
   "date": "07/2022",
-  "journal": "European journal of medicinal chemistry"
+  "journal": "European journal of medicinal chemistry",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/35500475/"
  },
  {
   "title": "Small Molecule-Based Enzyme Inhibitors in the Treatment of Primary Hyperoxalurias.",
   "authors": "Moya-Garzon MD, Gomez-Vidal JA, Alejo-Armijo A, Altarejos J, Rodriguez-Madoz JR, Fernandes MX, Salido E, Salido S, Diaz-Gavilan M",
   "date": "01/2021",
-  "journal": "Journal of personalized medicine"
+  "journal": "Journal of personalized medicine",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/33513899/"
  },
  {
   "title": "Salicylic Acid Derivatives Inhibit Oxalate Production in Mouse Hepatocytes with Primary Hyperoxaluria Type 1.",
   "authors": "Moya-Garzón MD, Martín Higueras C, Peñalver P, Romera M, Fernandes MX, Franco-Montalbán F, Gómez-Vidal JA, Salido E, Díaz-Gavilán M",
   "date": "08/2018",
-  "journal": "Journal of medicinal chemistry"
+  "journal": "Journal of medicinal chemistry",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/30028141/"
  },
  {
   "title": "Development of a Cannabinoid-Based Photoaffinity Probe to Determine the Δ(8/9)-Tetrahydrocannabinol Protein Interaction Landscape in Neuroblastoma Cells.",
   "authors": "Soethoudt M, Alachouzos G, van Rooden EJ, Moya-Garzón MD, van den Berg RJBHN, Heitman LH, van der Stelt M",
   "date": "07/2018",
-  "journal": "Cannabis and cannabinoid research"
+  "journal": "Cannabis and cannabinoid research",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/29992186/"
  }
 ];
 
